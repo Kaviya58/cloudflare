@@ -1,0 +1,4 @@
+name = "redirect-demo"
+main = "src/index.js"
+compatibility_date = "2022-12-30"
+
